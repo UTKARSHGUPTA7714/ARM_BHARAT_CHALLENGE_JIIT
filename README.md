@@ -2,6 +2,7 @@
 Hardware-accelerated CNN on Xilinx Zynq FPGA -16.8× speedup over CPU
 Real-Time CNN Inference on Xilinx Zynq FPGA with Arm Processor
 Problem Statement 5 — Hardware-Accelerated CNN for Real-Time Object Detection/Image Classification on Xilinx Zynq SoC
+
 📌 Project Overview
 This project implements a hardware-accelerated Convolutional Neural Network (CNN) on a Xilinx Zynq SoC, combining the Arm Cortex-A9 processor with FPGA fabric for real-time MNIST digit classification. The system achieves a 16.8× speedup over a CPU-only (software) implementation.
 The architecture follows a hardware/software co-design approach:
